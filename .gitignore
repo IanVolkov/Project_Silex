@@ -1,0 +1,46 @@
+# Build artifacts
+particle_simulation
+*.o
+*.a
+*.so
+*.exe
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile.cmake
+*.cmake
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Old Windows build files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
+Debug/
+Release/
+.vs/
+
+# Backup files
+*.bak
+*.backup
+
+# CodeQL
+_codeql_detected_source_root
+.codeql/
+codeql-db/
