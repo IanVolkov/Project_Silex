@@ -1,8 +1,0 @@
-procent: 20
-sleeptime: 5
-situation: 3
-lines: 0
-masscnt: 0
-abscollision: 0
-borders: 0
-infinity: 0
