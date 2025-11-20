@@ -39,3 +39,8 @@ Release/
 # Backup files
 *.bak
 *.backup
+
+# CodeQL
+_codeql_detected_source_root
+.codeql/
+codeql-db/
