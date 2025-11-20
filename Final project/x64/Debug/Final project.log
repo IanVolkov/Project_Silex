@@ -1,0 +1,8 @@
+﻿  Final project.cpp
+D:\My files\Проект\Final project\Final project.cpp(352,52): warning C4100: p: неиспользованный формальный параметр
+D:\My files\Проект\Final project\Final project.cpp(352,19): warning C4100: xk: неиспользованный формальный параметр
+D:\My files\Проект\Final project\Final project.cpp(505,51): warning C4100: p: неиспользованный формальный параметр
+D:\My files\Проект\Final project\Final project.cpp(849,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\My files\Проект\Final project\Final project.cpp(904,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\My files\Проект\Final project\Final project.cpp(913,45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Final project.vcxproj -> D:\My files\Проект\Final project\x64\Debug\Final project.exe
